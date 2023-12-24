@@ -1,0 +1,319 @@
+@media (max-width:991px){
+.button2{
+    padding: 9px 20px;
+    font-size: 10px;
+    margin-bottom: 0;
+
+}
+
+/* .row{
+    margin-left: 10px;
+        } */
+    }
+/* nav */
+@media(min-width:300px) and (max-width:800px){
+    nav{
+        background-color: #fff;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    }
+}
+/* banner */
+@media (max-width:991px){
+    .banner_img img{
+        max-width: 100%;
+    }
+    .banner_cnt h3{
+        font-size: 15px; 
+    }
+    .banner_cnt h1{
+        font-size: 34px; 
+    }
+    .banner_cnt h3 svg{
+
+    width: 16px;
+height: 16px; 
+    }
+.links label{
+font-size: 16px;
+}
+    .links a{
+        width: 32px;
+        text-align: center;
+height: 33px; 
+line-height: 33px;
+border-radius: 50%;
+font-size: 16px;
+    }
+    .button1{
+        font-size: 10px;
+    margin: 0;
+    padding: 9px 12px 8px 7px;
+
+    }
+    .button1 svg{
+    width: 12px;
+height: 12px;
+    }
+    }
+/* about */
+
+@media (max-width:991px){
+    .about_card{
+        margin:30px 0;
+    }
+    .about_pic img{
+        transform: scaleX(-1);
+        max-width: 100%;
+    }
+    .about_card .part2{
+    text-align: left;
+    }
+.common_cnt h2{
+    font-size: 24px;
+}
+.common_cnt p{
+    font-size: 15px;
+}
+.common_cnt_button{
+font-size: 14px;
+}
+.about_card h3{
+    font-size: 14px;
+}
+.about_card p{
+    font-size: 12px;
+}
+
+
+    }
+    /* branding */
+@media (max-width:991px){
+    .branding_img img{
+        max-width: 100%;
+    }
+
+     
+}
+/* help */
+@media (max-width:991px){
+  
+.help_cnt p{
+    text-align: left;
+    font-size: 15px;
+}
+.help_cnt h2{
+text-align: left;
+font-size:24px ;
+}
+.help_cnt .row{
+justify-content:left !important;
+margin-bottom: 38px;
+}
+.help_cnt .numbers h3 {
+	font-size: 24px;
+	text-align: left;
+}
+
+.help_cnt .numbers p {
+
+    font-size: 10px;
+ 
+ }
+ .design_card_cnt h3{
+    font-size: 15px;
+ }
+}
+/* experience */
+@media (max-width:991px){
+
+.exerience_card h3{
+    font-size: 15px;
+}
+.exerience_card p{
+    font-size: 12px;
+}
+.service{
+    border:0;
+    padding-left: 30px;
+}
+.designer{
+    padding-left: 30px;
+
+}
+.exerience_card {
+	border-left: 2px dashed #7A7A7A;
+}
+.service::before {
+	width: 11px;
+	height: 11px;
+	top: -22px;
+    left: 5px;
+}
+.service::after {
+	width: 23px;
+	height: 23px;
+	border: 2px dashed #7A7A7A;
+	top: -28px;
+    left: -1px;
+}
+}
+/* expertise */
+@media (max-width:991px){
+.view{
+    padding: 20px 16px 0;
+}
+.progressber h3,.progressber span {
+	font-size: 14px;
+}
+.bar1{
+    max-width: 100%;
+height: 4px; 
+}
+.bar2{
+    max-width: 85%;
+height: 4px; 
+}
+.progressber1 .bar2{
+max-width: 75%;
+}
+.progressber2 .bar2{
+    max-width: 80%;
+    }
+    .progressber3 .bar2{
+        max-width: 70%;
+        }
+    }
+/* service */
+@media (max-width:991px){
+#service .common_cnt h2, .common_cnt p {
+    text-align: left;
+}
+.service_card{
+    padding: 26px 22px;
+}
+.service_card_cnt{
+    text-align: left;
+
+}
+.service_card_img .img{
+width: 54px;
+height: 54px; 
+}
+}
+/* feedback */
+@media (max-width:991px){
+.feedback_img img{
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+.feedback_cnt p,.feedback_cnt h3{
+    font-size: 15px; 
+}
+.company_name
+{
+    font-size: 12px; 
+}
+
+}
+/* blog */
+@media (max-width:991px){
+#blog .common_cnt{
+  margin-bottom: 0;
+}
+#blog .common_cnt h2{
+    text-align: left;
+
+}
+.blog_card_cnt{
+    padding-left: 0;
+}
+.blog_card img{
+   max-width:100%;
+}
+
+.blog_card_cnt p{
+    font-size: 10px;
+}
+.blog_card_cnt p span{
+padding-right:10px;
+}
+.blog_card_cnt h3{
+padding-bottom: 10px;
+font-size: 13px;
+}
+.blog_card_cnt a{
+    font-size: 12px; 
+}
+.blog_card_cnt a svg{
+width: 14px;
+height: 14px; 
+}
+}
+/* newsletter */
+@media (max-width:991px){
+#newsletter{
+margin: 89px 0 59px;
+}
+.newsletter_cnt{
+    padding: 32px 0 40px 40px;
+}
+.newsletter_cnt h6{
+    font-size: 12px;
+
+}
+.newsletter_cnt h3{
+    font-size: 20px;
+
+}
+
+.newsletter_cnt p{
+font-size: 14px;
+}
+.input-group{
+    Width: 85% !important;
+height: 47px; 
+margin-bottom: 42px;
+margin-left: 40px;
+}
+.form-control{
+font-size: 12px;
+}
+.btn{
+    width: 76px;
+height: 47px; 
+font-size: 12px;
+padding: 6px 8px;
+}
+}
+/* contact */
+@media (max-width:991px){
+.content{
+    padding: 17px;
+}
+.social_icon{
+    padding-top: 34px ;
+}
+.content h3{
+    font-size: 18px;
+    
+}
+#contact p{
+    font-size: 13px;
+}
+.contact_details h6{
+    font-size: 12px;
+}
+.social_icon label{
+    font-size: 14px;
+}
+.social_icon a{
+    font-size: 12px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+}
+.logo1 img{
+    width: 150px;
+}
+}
